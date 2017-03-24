@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Morpheus</string>
+    <string name="complete">OK</string>
+    <string name="error">ERROR</string>
+    <string name="error_socket">Network problem. Please make sure you are connected to your local WiFi.</string>
+    <string name="error_io">I/O error. Please try again.</string>
+    <string name="error_security">Security manager denied access.</string>
+</resources>
